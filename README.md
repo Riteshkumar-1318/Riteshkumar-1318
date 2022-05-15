@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Riteshkumar
 - 👀 I’m interested in working with data
 - 🌱 I’m currently learning IIT Madras (Data Science)
-- 💞️ I’m looking to collaborate on Data Scientists 
+- 💞️ I’m looking to collaborate with Data Scientists 
 - 📫 How to reach me Email id :- riteshkumar18230@gmail.com
 
 <!---
